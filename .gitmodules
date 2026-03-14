@@ -1,0 +1,9 @@
+[submodule "driver_app"]
+	path = driver_app
+	url = https://github.com/senam-art/driver_app.git
+[submodule "passenger_app"]
+	path = passenger_app
+	url = https://github.com/senam-art/passenger_app.git
+[submodule "ashesi_go_backend"]
+	path = ashesi_go_backend
+	url = https://github.com/senam-art/ashesi_go_backend.git
